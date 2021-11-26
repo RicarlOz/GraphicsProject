@@ -781,5 +781,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Documents/School/GraphicsProject/Mario Kart Wii - Mario Circuit
-    3/WebGL
+  playerPath: D:/Documents/School/GraphicsProject/WebGL
